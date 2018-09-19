@@ -167,3 +167,8 @@ The six thinking hats are described as a role and a hat color:
   * Discernment = Black. Logic applied to identifying reasons to be cautious and conservative. Practical, realistic.
   * Optimistic response = Yellow. Logic applied to identifying benefits, seeking harmony. Sees the brighter, sunny side of situations.
   * Creativity = Green. Statements of provocation and investigation, seeing where a thought goes. Thinks creatively, outside the box.
+
+
+## Infrastructure as Code (IaC)
+
+https://en.wikipedia.org/wiki/Infrastructure_as_Code
