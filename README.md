@@ -1,6 +1,16 @@
 # Software development methodologies
 
-* []()
+Contents:
+
+* [Agile](#agile)
+* [Kanban](#kanban)
+* [Scaled agile framework](#scaled-agile-framework)
+* [Scrum ](#scrum)
+* [Disciplined agile delivery](#disciplined-agile-delivery)
+* [Sprints](#sprints)
+* [Six thinking hats](#six-thinking-hats)
+* [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
+* [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
 
 
 ## Agile
