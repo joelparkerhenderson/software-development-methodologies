@@ -13,6 +13,7 @@ Contents:
 * [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
 * [Run Until Caught](#run-until-caught)
 
+
 ## Agile
 
 https://en.wikipedia.org/wiki/Agile_software_development
@@ -207,7 +208,10 @@ So that makes refactoring like buying an option too. I pay a premium now so that
 
 So, the next time you have to deal with implausible delivery dates, don’t talk about Technical Debt. Debt is predictable and can be managed, it’s just another tool. Try talking about an Unhedged Call. Now all we need is a way to price Code Smells.
 
+
 ## Run Until Caught
+
+https://github.com/run-until-caught/Run-Until-Caught-Development
 
 <a href="https://github.com/run-until-caught/Run-Until-Caught-Development">Run Until Caught Development</a> is a set of principles for moving faster than large company processes normally would allow through strategic positioning of your work relative to burdensome internal processes.
 
@@ -215,12 +219,17 @@ There are six higher-order concepts within Run Until Caught development.
 
 The first 4 concepts are part of the "run" part of "run until caught" development.
 
-- Believable Ignorance
-- Creatively Leverage Definitions
-- Defer Until Tomorrow
-- Piggyback Rides
+  * Believable Ignorance
+
+  * Creatively Leverage Definitions
+
+  * Defer Until Tomorrow
+
+  * Piggyback Rides
 
 The last two concepts are all about the "caught" part of "run until caught" development.
 
-- Cost Accounting (no not that one)
-- How to Respond to being 'caught'
+
+  * Cost Accounting (no not that one)
+
+  * How to Respond to being 'caught'
