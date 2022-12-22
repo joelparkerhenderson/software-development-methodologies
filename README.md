@@ -1,5 +1,7 @@
 # Software development methodologies
 
+Software development methodologies summarized and bulleted for quick learning.
+
 Contents:
 
 - [Agile](#agile)
