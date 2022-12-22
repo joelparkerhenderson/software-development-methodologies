@@ -2,16 +2,17 @@
 
 Contents:
 
-* [Agile](#agile)
-* [Kanban](#kanban)
-* [Scaled agile framework](#scaled-agile-framework)
-* [Scrum ](#scrum)
-* [Disciplined agile delivery](#disciplined-agile-delivery)
-* [Sprints](#sprints)
-* [Six thinking hats](#six-thinking-hats)
-* [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
-* [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
-* [Run Until Caught](#run-until-caught)
+- [Agile](#agile)
+- [Kanban](#kanban)
+- [Scaled agile framework](#scaled-agile-framework)
+- [Spiral development model](#spiral-development-model)
+- [Scrum](#scrum)
+- [Disciplined agile delivery](#disciplined-agile-delivery)
+- [Sprints](#sprints)
+- [Six thinking hats](#six-thinking-hats)
+- [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
+- [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
+- [Run Until Caught](#run-until-caught)
 
 
 ## Agile
@@ -83,6 +84,25 @@ Principles:
 * Unlock the intrinsic motivation of knowledge workers
 
 * Decentralize decision-making
+
+
+## Spiral development model
+
+https://en.wikipedia.org/wiki/Spiral_model
+
+https://resources.sei.cmu.edu/asset_files/SpecialReport/2000_003_001_13655.pdf
+
+The spiral development model is a risk-driven process model generator. It guides multi-stakeholder concurrent engineering of software-intensive systems by using five major spiral features: 
+
+  * cyclic concurrent engineering
+
+  * risk driven determination of process and product, including choices of sub-methodologies such as incremental, waterfall, evolutionary prototyping, etc.
+
+  * growing a system via risk-driven experimentation and elaboration
+
+  * lowering development cost by early elimination of nonviable alternatives and rework avoidance
+  
+  * anchor point milestones for ensuring stakeholder commitment, for driving the spiral toward completion, for comparing progress among spiral projects.
 
 
 ## Scrum 
