@@ -17,6 +17,7 @@ Contents:
 - [Six thinking hats](#six-thinking-hats)
 - [Run Until Caught](#run-until-caught)
 - [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
+- [Waterfall model](#waterfall-model)
 
 
 ## Agile
@@ -292,3 +293,30 @@ So that makes refactoring like buying an option too. I pay a premium now so that
 So, the next time you have to deal with implausible delivery dates, don’t talk about Technical Debt. Debt is predictable and can be managed, it’s just another tool. Try talking about an Unhedged Call. Now all we need is a way to price Code Smells.
 
 
+## Waterfall model
+
+https://wikipedia.org/wiki/Waterfall_model
+
+The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous phase.
+
+Waterfall phases typically include these:
+
+* System and software requirements: captured in a product requirements document
+
+* Analysis: resulting in models, schema, and business rules
+
+* Design: resulting in the software architecture
+
+* Coding: the development, proving, and integration of software
+
+* Testing: the systematic discovery and debugging of defects
+
+* Operations: the installation, migration, support, and maintenance of complete systems
+
+Key advantags:
+
+* Provides the entire plan up front.
+  
+* Emphasizes documentation, which enables teams to understand aspects by reading.
+
+* Easy to understand, because the model progresses linearly through discrete phases.
