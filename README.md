@@ -1,6 +1,6 @@
 # Software development methodologies
 
-Software development methodologies summarized and bulleted for quick learning.
+Software development methodologies, summarized and bulleted for quick learning. Suggestions for improvements are welcome.
 
 Contents:
 
