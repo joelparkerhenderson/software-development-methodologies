@@ -1,6 +1,6 @@
 # Software development methodologies, practices, tactics
 
-This page is a summary of software development methodologies, practices, and tactics, that we encounter among our clients and customers. These are summarized and bulleted as quick overviews.
+This page summarizes various software development methodologies, practices, and tactics. The choices and summaries are based on our experiences with our teams, clients, and customers.
 
 Suggestions for improvements are welcome; you can open an issue, or send a pull request, or email joel@joelparkerhenderson.com.
 
@@ -263,7 +263,6 @@ The first 4 concepts are part of the "run" part of "run until caught" developmen
 
 The last two concepts are all about the "caught" part of "run until caught" development.
 
-
   * Cost Accounting (no not that one)
 
   * How to Respond to being 'caught'
@@ -273,8 +272,7 @@ The last two concepts are all about the "caught" part of "run until caught" deve
 
 Bad code isn’t Technical Debt, it’s an unhedged call
 
-* By Steve Freeman
-* Jul 23rd, 2010
+By Steve Freeman on 2010-07-23.
 
 This is all Chris Matts‘ idea. He realised that the problem with the “Technical Debt” metaphor is that for managers debt can be a good thing. Executives can be required to take on more debt because it makes the finances work better, it might even be encouraged by tax breaks. This is not the same debt as your personal credit card. Chris came up with a better metaphor, the Call Option.
 
