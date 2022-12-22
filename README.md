@@ -1,6 +1,6 @@
-# Software development methodologies
+# Software development methodologies, practices, tactics
 
-Software development methodologies, summarized and bulleted for quick learning. 
+This page is a summary of software development methodologies, practices, and tactics, that we encounter among our clients and customers. These are summarized and bulleted as quick overviews.
 
 Suggestions for improvements are welcome; you can open an issue, or send a pull request, or email joel@joelparkerhenderson.com.
 
