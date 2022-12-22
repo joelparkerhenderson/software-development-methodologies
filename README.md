@@ -17,7 +17,7 @@ Contents:
 
 ## Agile
 
-https://en.wikipedia.org/wiki/Agile_software_development
+https://wikipedia.org/wiki/Agile_software_development
 
 Agile Manifesto:
 
@@ -58,7 +58,7 @@ Principles:
 
 ## Disciplined agile delivery
 
-https://en.wikipedia.org/wiki/Disciplined_agile_delivery
+https://wikipedia.org/wiki/Disciplined_agile_delivery
 
 Key aspects:
 
@@ -126,12 +126,12 @@ There are generally two approaches to IaC:
 
 ## Kanban
 
-https://en.wikipedia.org/wiki/Kanban
+https://wikipedia.org/wiki/Kanban_(development)
 
 
 ## Scaled agile framework
 
-https://en.wikipedia.org/wiki/Scaled_agile_framework
+https://wikipedia.org/wiki/Scaled_agile_framework
 
 Principles:
 
@@ -157,7 +157,7 @@ Principles:
 
 ## Scrum 
 
-https://en.wikipedia.org/wiki/Scrum_(software_development)
+https://wikipedia.org/wiki/Scrum_(software_development)
 
 Key roles:
 
@@ -170,7 +170,7 @@ Key roles:
 
 ## Spiral development model
 
-https://en.wikipedia.org/wiki/Spiral_model
+https://wikipedia.org/wiki/Spiral_model
 
 https://resources.sei.cmu.edu/asset_files/SpecialReport/2000_003_001_13655.pdf
 
@@ -210,7 +210,7 @@ Internal value sprint:
 
 ## Six thinking hats
 
-https://en.wikipedia.org/wiki/Six_Thinking_Hats
+https://wikipedia.org/wiki/Six_Thinking_Hats
 
 The six thinking hats are described as a role and a hat color:
 
