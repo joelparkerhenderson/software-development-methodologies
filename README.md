@@ -1,6 +1,8 @@
 # Software development methodologies
 
-Software development methodologies, summarized and bulleted for quick learning. Suggestions for improvements are welcome.
+Software development methodologies, summarized and bulleted for quick learning. 
+
+Suggestions for improvements are welcome; you can open an issue, or send a pull request, or email joel@joelparkerhenderson.com.
 
 Contents:
 
