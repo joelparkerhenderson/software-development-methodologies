@@ -128,6 +128,22 @@ There are generally two approaches to IaC:
 
 https://wikipedia.org/wiki/Kanban_(development)
 
+Kanban (Japanese: 看板, meaning signboard or billboard) is a lean method to manage and improve work across human systems. 
+
+  * Kanban aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks.
+
+  * Work items are visualized to give participants a view of progress and process, from start to finish, usually via a kanban board.
+
+Notable advantages:
+
+  * Visualizes the work, such as tasks, todos, feature requests, use cases, user stories, etc.
+
+  * Captures work-in-progress (WIP) limits for development steps.
+  
+  * Documents policies, also known as done rules.
+  
+  * Shows flow management from step to step, such as "ready to do", "in progress", "awaiting signoff", etc.
+
 
 ## Scaled agile framework
 
