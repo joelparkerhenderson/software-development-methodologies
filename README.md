@@ -4,13 +4,13 @@ Contents:
 
 - [Agile](#agile)
 - [Disciplined agile delivery](#disciplined-agile-delivery)
+- [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
 - [Kanban](#kanban)
 - [Scaled agile framework](#scaled-agile-framework)
 - [Scrum](#scrum)
 - [Spiral development model](#spiral-development-model)
 - [Sprints](#sprints)
 - [Six thinking hats](#six-thinking-hats)
-- [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
 - [Run Until Caught](#run-until-caught)
 - [Technical debt vs. unhedged call option](#technical-debt-vs-unhedged-call-option)
 
@@ -101,6 +101,27 @@ Secondary roles:
 * Independent Tester
 
 * Integrator
+
+
+## Infrastructure as Code (IaC)
+
+https://wikipedia.org/wiki/Infrastructure_as_Code
+
+Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+
+Advantages:
+
+  * Cost savings: IaC removes manual tasks, thus freeing up people to do other work.
+  
+  * Speed improvements: IaC enables faster execution, and also enables visibility among teams which accelerates collaboration.
+  
+  * Risk reduction: IaC removes risks associated with human error, like manual misconfiguration
+
+There are generally two approaches to IaC: 
+
+  * Declarative (functional): what is the target/goal/outcome.
+  
+  * Imperative (procedural): how changes should be run/applied/processed
 
 
 ## Kanban
@@ -199,27 +220,6 @@ The six thinking hats are described as a role and a hat color:
   * Discernment = Black. Logic applied to identifying reasons to be cautious and conservative. Practical, realistic.
   * Optimistic response = Yellow. Logic applied to identifying benefits, seeking harmony. Sees the brighter, sunny side of situations.
   * Creativity = Green. Statements of provocation and investigation, seeing where a thought goes. Thinks creatively, outside the box.
-
-
-## Infrastructure as Code (IaC)
-
-https://wikipedia.org/wiki/Infrastructure_as_Code
-
-Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
-
-Advantages:
-
-  * Cost savings: IaC removes manual tasks, thus freeing up people to do other work.
-  
-  * Speed improvements: IaC enables faster execution, and also enables visibility among teams which accelerates collaboration.
-  
-  * Risk reduction: IaC removes risks associated with human error, like manual misconfiguration
-
-There are generally two approaches to IaC: 
-
-  * Declarative (functional): what is the target/goal/outcome.
-  
-  * Imperative (procedural): how changes should be run/applied/processed
 
 
 ## Run Until Caught
